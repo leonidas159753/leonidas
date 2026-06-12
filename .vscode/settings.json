@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "livePreview.portNumber": 3000,
+    "livePreview.autoRefreshPreview": "On All Changes",
+    "livePreview.openPreviewTarget": "External Browser",
+    "files.watcherExclude": {}
+}
