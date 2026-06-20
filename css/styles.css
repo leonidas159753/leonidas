@@ -1,3 +1,4 @@
+@import "./normalize.css";
 /* Topographie*/
 ::selection {
   background: var(--color-primary);
